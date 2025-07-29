@@ -1,15 +1,19 @@
 # Modbus Write Command Detection in Industrical Network Traffic
 
+<hr>
+
 <img src="images/hero.png" alt="hero" width=600/><br />
 
 
-## Purpose
+Purpose
+<hr>
 
 The purpose of this lab is to simulate package analysis in an actual industrial environment.
 
-<hr>
 
-## Procedure
+
+Procedure
+<hr>
 
 Download `pcap`	file from <a href="https://github.com/ITI/ICS-Security-Tools/blob/master/pcaps/ModbusTCP/modbus_test_data_part1.pcap">Tim Yardley's ICS-Security-Tools</a>
 
@@ -22,12 +26,15 @@ Add filter to only display modbus traffic
 
 Analyze captures
 
-<hr>
-
-## Discussion
 
 
+Discussion
 
 <hr>
 
-## Planned Improvements 
+
+
+
+
+Planned Improvements 
+<hr>
