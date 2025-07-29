@@ -5,9 +5,7 @@
 
 ## Purpose
 
-
-The purpose of this lab is to simulate package analysis in an actual industrial environment.
-
+The purpose of this lab is to simulate a realistic OT (Operational Technology) incident detection scenario by analyzing Modbus/TCP network traffic for unauthorized Write Multiple Register (Function Code 16) commands. This exercise reinforces protocol-level understanding of Modbus, teaches how to filter and interpret packet captures in Wireshark, and highlights how unauthorized writes to PLC registers can result in unsafe or unexpected changes to industrial processes.
 
 
 ## Procedure
